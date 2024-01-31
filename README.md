@@ -1,5 +1,4 @@
-<h3>Olá, eu sou o Eric
-  
+###Olá, eu sou o Eric
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_roomero__/)
 
 ![Clueroi GitHub stats](https://github-readme-stats.vercel.app/api?username=clueroi&show_icons=true&theme=radical)
@@ -15,7 +14,7 @@
 </div>
 
 <hr/> 
-Aqui vão alguns projetos que fiz<br/>
+###Aqui vão alguns projetos que fiz<br/>
 <hr/> 
 
 [![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://vercel.com/clueroi/tic-tac-toe)]() <br/>
