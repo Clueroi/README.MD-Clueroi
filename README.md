@@ -15,4 +15,6 @@
 </div>
 
 Aqui vão alguns projetos que fiz<br/>
+<hr/> 
+
 [![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://vercel.com/clueroi/tic-tac-toe)]() <br/>
