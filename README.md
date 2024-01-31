@@ -14,7 +14,7 @@
   <img align="center" alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-<h1>Estudo programação, aprendendo back-end e SAP e atualmente faço engenharia da computação na cruzeiro do sul</h1>
+<h3>Estudo programação, aprendendo back-end e SAP e atualmente faço engenharia da computação na cruzeiro do sul</h1>
 
 <hr/> 
 <h3 >Alguns projetos que fiz<br/>
