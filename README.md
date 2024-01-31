@@ -1,6 +1,6 @@
 <h3>Olá, eu sou o Eric
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_roomero__/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_roomero__/ target="_blank")
 
 ![Clueroi GitHub stats](https://github-readme-stats.vercel.app/api?username=clueroi&show_icons=true&theme=radical)
 
