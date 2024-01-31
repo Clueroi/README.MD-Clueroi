@@ -14,5 +14,5 @@
   <img align="center" alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-Aqui vão alguns projetos que fiz
+Aqui vão alguns projetos que fiz<br/>
 [![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://vercel.com/clueroi/tic-tac-toe)]() <br/>
