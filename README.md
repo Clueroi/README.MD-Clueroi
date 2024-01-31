@@ -8,5 +8,8 @@
 <h4>Tecnologias que eu utilizo no meu dia-a-dia
 
 <div style="display: inline_block">
-<img align="center" alt="html5"src="">
+  <img align="center" alt="html5"src="">
+  <img align="center" alt="CSS3"src="">
+  <img align="center" alt="JS"src="">
+  <img align="center" alt="React"src="">
 </div>
