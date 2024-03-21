@@ -1,4 +1,4 @@
-<h3>Olá, eu sou o Eric
+<h3>Olá, eu sou o Eric, desenvolvedor React
   
 
 <h4>Tecnologias que eu utilizo no meu dia-a-dia
