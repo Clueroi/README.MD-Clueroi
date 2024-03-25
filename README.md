@@ -18,5 +18,5 @@
 <h3 >Alguns projetos que fiz<br/>
 <hr/> 
 
-[![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://tic-tac-toe-woad-six.vercel.app) <br/>
+[![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://tic-tac-toe-woad-six.vercel.app)
 [![Projeto](https://img.shields.io/website?label=RedeSocial.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://social-pz5zl66ca-cluerois-projects.vercel.app) <br/>
