@@ -1,7 +1,7 @@
 <h3>Olá, eu sou o Eric, desenvolvedor front end React
   
 
-<h4>Tecnologias que eu utilizo no meu dia-a-dia
+<h4>Tecnologias que eu utilizo no meu dia-a-dia<br/><br/>
 
 <div style="display: inline_block; gap: 30px">
   <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
