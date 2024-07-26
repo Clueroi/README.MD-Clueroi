@@ -1,15 +1,14 @@
 <h1 align="center">Olá, eu sou o Eric, desenvolvedor front end React</h1>
 
-<p align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar melhores maneiras de resolver problemas e criar novas interfaces. </p>
+<p align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar melhores maneiras de resolver problemas e criar novas interfaces.</p>
+<h2>⏰ Atualmente</h2>
+- Cursando bacharelado em engenharia da computação na <strong>descomplica</strong></p>
+- Cursando técnico react | node | DevOps na <strong>rocketseat</strong></p>
+- Atualmente estou me aprofundando em <strong>back-end</strong></p>
+- Estudando para me tornar full-stack</p>
 
-<hr/>
-<p>Cursando bacharelado em engenharia da computação na <strong>descomplica</strong></p>
-<p>Cursando técnico react | node | DevOps na <strong>rocketseat</strong></p>
-<p>Atualmente estou me aprofundando em <strong>back-end</strong></p>
-<p>Estudando para me tornar full-stack</p>
-<hr/>
-
-## 🎯 Metas Futuras
+<br/>
+<h2>🎯 Metas Futuras</h2>
 
 - 🧠 Estudar os fundamentos de um **Desenvolvedor Fullstack de Sucesso**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
@@ -52,6 +51,7 @@
 
 <details open>
   <summary> 💅 Front-end</summary>
+  <br/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -68,8 +68,9 @@
 </details>
 
 
-<h3 >Alguns projetos que fiz
+<h3>Projetos que fiz
 <br/><br/>
 
 [![Projeto](https://img.shields.io/website?label=TicTacToe.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://tic-tac-toe-woad-six.vercel.app)
 [![Projeto](https://img.shields.io/website?label=RedeSocial.com&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)](https://social-pz5zl66ca-cluerois-projects.vercel.app) <br/>
+[!Projeto(https://img.shields.io/website?label=Agenda&style=for-the-badge&url=https://tic-tac-toe-woad-six.vercel.app)]()
