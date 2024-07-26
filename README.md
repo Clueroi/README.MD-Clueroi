@@ -12,7 +12,7 @@
 <img align="center" alt="React"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-<h3>Estudo programação, aprendendo back-end e SAP e atualmente faço engenharia da computação na Descomplica </h1>
+<h3>Estudo programação, aprendendo back-end para me tornar full-stack e atualmente faço engenharia da computação na Descomplica </h1>
 
 <hr/> 
 <h3 >Alguns projetos que fiz
