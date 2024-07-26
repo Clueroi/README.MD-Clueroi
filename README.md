@@ -12,7 +12,9 @@
 <img align="center" alt="React"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-<h3>Estudo programação, aprendendo back-end para me tornar full-stack e atualmente faço engenharia da computação na Descomplica </h1>
+<h3>Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar melhores maneiras de resolver problemas e criar novas interfaces. </h3>
+
+<hr/>
 
 <hr/> 
 <h3 >Alguns projetos que fiz
