@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Eric, desenvolvedor front end React</h1>
 
-<h4 align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar melhores maneiras de resolver problemas e criar novas interfaces. </h4>
+<p align="center">Sou um estudante ávido por programação web. Meu objetivo é desenvolver sites escaláveis, de fácil manutenção e fáceis de usar, que sigam as regras de good coding e sejam boas experiências a usuários. Mantenho uma frequência de estudo para encontrar melhores maneiras de resolver problemas e criar novas interfaces. </p>
 
 <hr/>
 <p>Cursando bacharelado em engenharia da computação na <strong>descomplica</strong></p>
