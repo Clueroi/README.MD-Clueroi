@@ -19,7 +19,7 @@
 <div align = "center">
 
 <a href="https://www.instagram.com/eric_roomero__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
-<a href="www.linkedin.com/in/eric-romero-3a2198230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/eric-romero-3a2198230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="mailto:eriicsouzaromeroo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
 <a href="https://discord.com/channels/502615111786299402" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
 
