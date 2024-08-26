@@ -30,6 +30,7 @@
     <br>
     <img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'>
     <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
+    <img src="https://img.shields.io/badge/Knex-000000?style=for-the-badge&logo=knex&logoColor=white">
   </details>
   
   <details open>
