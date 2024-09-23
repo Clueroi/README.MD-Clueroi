@@ -24,6 +24,12 @@
 <a href="https://discord.com/channels/502615111786299402" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
 
 <h2>Tecnologias que eu utilizo no meu dia-a-dia<br/><br/>
+
+  <details open>
+    <summary><b>🗄️ DevOps</b></summary>
+    <br>
+    <img src= "https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white">
+  </details>
   
   <details open>
     <summary><b>🗄️ Database</b></summary>
@@ -37,6 +43,9 @@
   <summary><b>🧰 Backend</b></summary>
   <br>
     <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
+    <img src='https://img.shields.io/badge/-Vitest-181717?style=for-the-badge&logo=vitest'>
+    <img src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white'>
+    <img src='https://img.shields.io/badge/Fastify-E0234E?style=for-the-badge&logo=fastify&logoColor=white'>
   </details>
   
 <details open>
@@ -46,6 +55,7 @@
     <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'>
     <img src='https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white'>
     <img src='https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github'>
+
 </details>
 
 <details open>
